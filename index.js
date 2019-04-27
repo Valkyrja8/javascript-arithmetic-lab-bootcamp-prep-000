@@ -33,7 +33,10 @@ function makeInt(a){
   return (parseInt(a))
 }  
 
-
+//MakeInt(n) assumes base 10.
+function makeInt(a){
+  return (parseInt(a, 10))
+}
 
 /*PreserveDecimal(n) preserves n's decimals (it parses n as a floating pointnumber) and returns the parsed number */
 function preserveDecimal(a){
