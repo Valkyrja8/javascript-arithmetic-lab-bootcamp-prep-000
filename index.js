@@ -16,3 +16,4 @@ function multiply(a, b){
 // Divides a and b and returns the result.
 function divide(a, b){
   return (a / b)
+}
