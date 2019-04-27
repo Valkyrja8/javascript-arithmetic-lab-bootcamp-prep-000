@@ -17,3 +17,10 @@ function multiply(a, b){
 function divide(a, b){
   return (a / b)
 }
+
+//Inc(n) increments n and returns the result.
+function inc(a){
+  return (a + 1)
+}  
+  
+}
