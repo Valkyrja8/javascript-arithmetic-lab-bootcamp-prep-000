@@ -28,3 +28,4 @@ function dec(a){
   return (a - 1)
 }
 
+//Parses n as an integer and returns the parsed integer
