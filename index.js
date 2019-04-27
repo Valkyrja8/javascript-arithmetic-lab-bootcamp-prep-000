@@ -4,3 +4,6 @@ function add(a, b){
 }
 
 // Substract a and b and returns the result.
+function substract(a, b){
+  return a - b
+}
