@@ -29,6 +29,8 @@ function dec(a){
 }
 
 //Parses n as an integer and returns the parsed integer.
-function parseInt(a){
+function makeInt(a){
   return (parseInt(a))
 }  
+
+//
