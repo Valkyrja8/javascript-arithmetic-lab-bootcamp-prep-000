@@ -33,4 +33,4 @@ function makeInt(a){
   return (parseInt(a))
 }  
 
-//
+/*PreserveDecimal(n) preserves n's decimals (it parses n as a floating pointnumber) and returns the parsed number
