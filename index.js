@@ -22,4 +22,8 @@ function divide(a, b){
 function inc(a){
   return (a + 1)
 }  
-  
+
+//Dec(n) increments n and returns the result.  
+function dec(a){
+  return (a - 1)
+}
