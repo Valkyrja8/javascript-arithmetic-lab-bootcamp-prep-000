@@ -3,4 +3,4 @@ function add(a, b){
   return a + b
 }
 
-//
+// Substract a and b and returns the result.
