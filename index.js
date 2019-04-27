@@ -31,6 +31,4 @@ function dec(a){
 //Parses n as an integer and returns the parsed integer.
 function parseInt(a){
   return (parseInt(a))
-}
-
-}
+}  
